@@ -1,17 +1,46 @@
+h1 {
+  font-size: 100px;
+  text-align: center;
+  font-weight: bold;
+}
+
+p {
+  text-align: center;
+}
+
+div {
+  float: left;
+  background-color: gray;
+  border: 2px solid black;
+  width: 33%;
+  height: auto;
+}
+
+img {
+  width: 80%;
+  height: auto;
+}
+
 .fluffy h3 {
+  text-align: center;
+  background-color: yellow;
   font-size: 50px;
   font-style: italic;
   color: green;
 }
 
 .pookie h3 {
+  text-align: center;
+  background-color: red;
   font-size: 50px;
   font-style: italic;
-  color: green;
+  color: blue;
 }
 
 .stella h3 {
+  text-align: center;
+  background-color: purple;
   font-size: 50px;
   font-style: italic;
-  color: green;
+  color: orange;
 }
